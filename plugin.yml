@@ -1,0 +1,5 @@
+name: QuakePlugin
+version: 1.0
+main: com.quake.QuakePlugin
+api-version: '1.21'
+description: Fast hoe-and-arrow Quake arena
